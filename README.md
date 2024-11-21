@@ -1,5 +1,5 @@
 **🌟 Forage Internship: Accenture North America Data Analytics and Visualization**
-Duration: August 2024
+August 2024
 
 **Overview**
 Successfully completed the Accenture North America Data Analytics and Visualization Job Simulation on Forage. This immersive experience simulated the role of a Data Analyst, focusing on advising a hypothetical social media client using data-driven insights.
